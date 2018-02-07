@@ -6,17 +6,17 @@ subheading:
 image: 
 ---
 
-1. Introducción
+1. **Introducción**
 
-1.1 Historia de la IA
+* 1.1 Historia de la IA
 
-1.2 Qué es IA
+* 1.2 Qué es IA
 
-1.3 Agentes inteligentes
+* 1.3 Agentes inteligentes
 
-2. Solución de problemas
+2. **Solución de problemas**
 
-2.1 Búsquedas en grafos
+* 2.1 Búsquedas en grafos
 
 2.2 Búsqueda en profundidad 
 
@@ -27,7 +27,7 @@ image:
 2.5 Búsqueda A*
 
 
-3. Probabilidad en IA
+3. **Probabilidad en IA**
 
 3.1 Repaso de probabilidad
 
@@ -37,7 +37,7 @@ image:
 
 3.4 Redes Bayesianas
 
-4. Aprendizaje de máquina
+4. **Aprendizaje de máquina**
 
 4.1 Qué es aprendizaje de máquina
 
@@ -53,7 +53,7 @@ image:
 
 4.7 Aprendizaje no supervisado
 
-5. Redes neuronales
+5. **Redes neuronales**
 
 5.1 Perceptrón
 
@@ -61,7 +61,7 @@ image:
 
 5.3 Backpropagation
 
-6. Juegos
+6. **Juegos**
 
 6.1 Juegos de un jugador
 
@@ -73,7 +73,7 @@ image:
 
 6.5 Monte Carlos Tree Search
 
-5. Visión
+5. **Visión**
 
 5.1 Visión por computador
 
@@ -81,7 +81,7 @@ image:
 
 5.3 Redes neuronales convolucionales
 
-6. Procesamiento de lenguaje natural
+6. **Procesamiento de lenguaje natural**
 
 6.1 Modelos de lenguaje
 
