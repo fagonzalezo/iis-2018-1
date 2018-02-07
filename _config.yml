@@ -1,0 +1,17 @@
+title: Introducción a los Sistemas Inteligentes 2018-1
+description: Universidad Nacional de Colombia, Bogotá
+sitename: Introducción a los Sistemas Inteligentes
+baseurl: '/iis-2018-1'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - Gemfile.bak
+  - .bundle
