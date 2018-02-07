@@ -1,7 +1,7 @@
 ---
 id: schedule
-name: Schedule
-heading: Course schedule
+name: Calendario
+heading: Calendario del curso
 subheading: 
 image: 
 ---

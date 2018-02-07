@@ -1,6 +1,6 @@
 ---
 id: description
-name: Description
+name: Descripción
 heading: Descripción del Curso
 subheading: 
 image: 

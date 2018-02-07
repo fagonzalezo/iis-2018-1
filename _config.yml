@@ -1,6 +1,6 @@
-title: Introducción a los Sistemas Inteligentes 2018-1
+title: Intro Sistemas Inteligentes 2018-1
 description: Universidad Nacional de Colombia, Bogotá
-sitename: Introducción a los Sistemas Inteligentes
+sitename: Intro  Sistemas Inteligentes
 baseurl: '/iis-2018-1'
 sass:
   sass_dir: /assets/_sass
