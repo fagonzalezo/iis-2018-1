@@ -7,7 +7,7 @@ image:
 ---
 
 * Tareas 50%
-* Exaámenes 30%
-* Projyecto 20%
+* Exámenes 30%
+* Proyecto 20%
 
 [Grades]
