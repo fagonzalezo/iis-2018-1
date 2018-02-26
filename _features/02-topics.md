@@ -24,7 +24,7 @@ image:
 
 2.4 Búsqueda de costo uniforme
 
-2.5 Búsqueda A*
+2.5 Búsqueda informada
 
 3 **Probabilidad en IA**
 
