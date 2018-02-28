@@ -47,7 +47,7 @@ image:
 				<td>
 					[Russell10] Chap 4a (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					[AI-edX] A* Search and Heuristics (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-3-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
-					Métodos de búsqueda (<a href= https://colab.research.google.com/drive/1SNaFH83fnDojM-v5MNyB2V27z3OjQ7Eb">Python notebook</a>)<br>
+					Métodos de búsqueda (<a href= "https://colab.research.google.com/drive/1SNaFH83fnDojM-v5MNyB2V27z3OjQ7Eb">Python notebook</a>)<br>
 				</td>
 				<td>
 				</td>
