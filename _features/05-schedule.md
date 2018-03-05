@@ -52,6 +52,20 @@ image:
 				<td>
 				</td>
 			</tr>
+			<tr>
+				<td>Mar 5</td>
+				<td>3.1 Repaso de probabilidad<br>
+					3.2 Dependencia/independencia condicional
+				</td>
+				<td>
+					[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>)<br>
+					[AI-edX] Probability (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-12-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/bca0c97c5e9d4913b90559168cfec0bb/">video</a>)<br>
+				</td>
+				<td>
+					<a href= "https://github.com/fagonzalezo/iis-2018-1/blob/master/taller2.ipynb">Taller 2</a>
+				</td>
+			</tr>
+
 		</small>
 	</tbody>
 </table>
