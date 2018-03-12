@@ -55,7 +55,7 @@ image:
 			<tr>
 				<td>Mar 5</td>
 				<td>3.1 Repaso de probabilidad<br>
-					3.2 Dependencia/independencia condicional
+					3.2 Teorema de Bayes 3.3 Clasificador Bayesiano Ingenuo
 				</td>
 				<td>
 					[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>)<br>
@@ -65,7 +65,17 @@ image:
 					<a href= "https://github.com/fagonzalezo/iis-2018-1/blob/master/taller2.ipynb">Taller 2</a>
 				</td>
 			</tr>
-
+			<tr>
+				<td>Mar 12</td>
+				<td>3.3 Clasificador Bayesiano Ingenuo
+				</td>
+				<td>
+					[Russell10] Chap 20 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>) <br>
+					[AI-edX] ML: Naive Bayes (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-20-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/60207cf8bf114394a5e626dc89c67516/">video</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
 		</small>
 	</tbody>
 </table>

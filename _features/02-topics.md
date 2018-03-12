@@ -30,11 +30,9 @@ image:
 
 3.1 Repaso de probabilidad
 
-3.2 Dependencia/independencia condicional
+3.2 Teorema de Bayes
 
-3.3 Teorema de Bayes
-
-3.4 Redes Bayesianas
+3.3 Clasificador Bayesiano Ingenuo
 
 4 **Aprendizaje de máquina**
 
@@ -45,8 +43,6 @@ image:
 4.3 Aprendizaje supervisado
 
 4.4 Máxima verosimilitud
-
-4.5 Clasificador Bayesiano Ingenuo
 
 4.6 Regresión logística
 
