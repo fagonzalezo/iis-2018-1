@@ -55,7 +55,7 @@ image:
 			<tr>
 				<td>Mar 5</td>
 				<td>3.1 Repaso de probabilidad<br>
-					3.2 Teorema de Bayes 3.3 Clasificador Bayesiano Ingenuo
+					3.2 Teorema de Bayes
 				</td>
 				<td>
 					[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>)<br>
