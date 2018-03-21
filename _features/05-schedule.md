@@ -76,6 +76,19 @@ image:
 				<td>
 				</td>
 			</tr>
+			<tr>
+				<td>Mar 19</td>
+				<td>4.1 Qué es aprendizaje de máquina<br>
+				    4.2 Generalización
+				</td>
+				<td>
+					[Russell10] Chap 18 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					An Introduction to Machine Learning (<a href= "intro-ml.pdf">slides</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
+
 		</small>
 	</tbody>
 </table>
