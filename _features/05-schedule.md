@@ -86,6 +86,7 @@ image:
 					An Introduction to Machine Learning (<a href= "intro-ml.pdf">slides</a>)<br>
 				</td>
 				<td>
+				   <a href= "taller3.html">Taller 3</a>
 				</td>
 			</tr>
 
