@@ -38,13 +38,11 @@ image:
 
 4.1 Qué es aprendizaje de máquina
 
-4.2 Generalización
+4.2 Aprendizaje supervisado
 
-4.3 Aprendizaje supervisado
+4.4 Árboles de decisión
 
-4.4 Máxima verosimilitud
-
-4.6 Regresión logística
+4.5 Modelos lineales 
 
 4.7 Aprendizaje no supervisado
 

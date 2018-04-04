@@ -78,15 +78,25 @@ image:
 			</tr>
 			<tr>
 				<td>Mar 19</td>
-				<td>4.1 Qué es aprendizaje de máquina<br>
-				    4.2 Generalización
+				<td>4.1 Qué es aprendizaje de máquina?<br>
 				</td>
 				<td>
-					[Russell10] Chap 18 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					[Russell10] Sect 18.1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					An Introduction to Machine Learning (<a href= "intro-ml.pdf">slides</a>)<br>
 				</td>
 				<td>
 				   <a href= "taller3.html">Taller 3</a>
+				</td>
+			</tr>
+			<tr>
+				<td>Abr 4</td>
+				<td>4.2 Aprendizaje supervisado<br>
+					4.4 Árboles de decisión<br>
+				</td>
+				<td>
+					[Russell10] Sect 18.2, 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+				</td>
+				<td>
 				</td>
 			</tr>
 
