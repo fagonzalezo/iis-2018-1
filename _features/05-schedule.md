@@ -89,12 +89,24 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Abr 4</td>
+				<td>Abr 2</td>
 				<td>4.2 Aprendizaje supervisado<br>
-					4.4 Árboles de decisión<br>
+					4.3 Árboles de decisión<br>
 				</td>
 				<td>
-					[Russell10] Sect 18.2, 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					[Russell10] Sect 18.2, 18.3, 18.4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+				</td>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>Abr 9</td>
+				<td>4.4 Modelos lineales <br>
+					5.1 Perceptrón<br>
+				</td>
+				<td>
+				    (<a href= "linear_models.pdf">Modelos lineales</a>)<br>
+					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 				</td>
 				<td>
 				</td>

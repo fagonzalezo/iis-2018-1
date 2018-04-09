@@ -40,11 +40,11 @@ image:
 
 4.2 Aprendizaje supervisado
 
-4.4 Árboles de decisión
+4.3 Árboles de decisión
 
-4.5 Modelos lineales 
+4.4 Modelos lineales 
 
-4.7 Aprendizaje no supervisado
+4.5 Aprendizaje no supervisado
 
 5 **Redes neuronales**
 
