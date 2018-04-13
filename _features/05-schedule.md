@@ -122,6 +122,7 @@ image:
 					[Russell10] Sect 18.7  <br>
 				</td>
 				<td>
+				<a href= "taller4.pdf">Taller 4</a>
 				</td>
 			</tr>
 		</small>
