@@ -120,6 +120,7 @@ image:
 					[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
 					Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">Jupyter notebook</a>)<br>
 					[Russell10] Sect 18.7  <br>
+					<a href= "https://colab.research.google.com/drive/1dUzgdITJpNXJIEsoqRtEdR7wA9Biihg9">Perceptron training handout</a>
 				</td>
 				<td>
 				<a href= "taller4.pdf">Taller 4</a>
