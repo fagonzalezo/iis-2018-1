@@ -126,6 +126,18 @@ image:
 				<a href= "taller4.pdf">Taller 4</a>
 				</td>
 			</tr>
+			<tr>
+				<td>Abr 23</td>
+				<td>4.5 Evaluación <br>
+				</td>
+				<td>
+					[Alp10] Chap 19.1-19.7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)
+					<br>
+					<a href= "Sesion_5_Analisis_Supervisado.pdf">Análisis Supervisado</a>
+				</td>
+				<td>
+				</td>
+			</tr>
 		</small>
 	</tbody>
 </table>
