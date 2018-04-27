@@ -44,7 +44,9 @@ image:
 
 4.4 Modelos lineales 
 
-4.5 Aprendizaje no supervisado
+4.5 Evaluación
+
+4.6 Aprendizaje no supervisado
 
 5 **Redes neuronales**
 
