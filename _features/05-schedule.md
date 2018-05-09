@@ -138,6 +138,31 @@ image:
 				<td>
 				</td>
 			</tr>
+            <tr>
+				<td>Abr 30</td>
+				<td>4.6 Aprendizaje no supervisado (agrupamiento)<br>
+				</td>
+				<td>
+					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)
+					<br>
+					<a href= "KMeans.pdf">K-Means</a>
+				</td>
+				<td>
+				</td>
+			</tr>
+            <tr>
+				<td>May 7</td>
+				<td>4.6 Aprendizaje no supervisado (PCA) <br>
+				</td>
+				<td>
+					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
+					<br>
+					<a href= "https://colab.research.google.com/drive/1WZQ7YWcB2PyTDZfeQBiTsvLY1ByQ_n_v">PCA notebook</a>
+				</td>
+				<td>
+				</td>
+			</tr>
+
 		</small>
 	</tbody>
 </table>
